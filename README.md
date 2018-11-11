@@ -4,7 +4,7 @@ A simple desktop  text editor built with Electronjs, Javascript and css. I hope 
 
 ## Contributing
 
-start start by forking the repo, download to on your local machine , navigate to the file via your the command console
+start  by forking the repo, download to on your local machine , navigate to the file via your the command console
 ```
 npm install or yarn add
 
